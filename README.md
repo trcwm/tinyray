@@ -21,4 +21,4 @@ Additions:
 
 ## Example
 
-![Tinyray example image](./tinyray.png)
+![Tinyray example image](tinyray.png)
