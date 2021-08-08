@@ -18,3 +18,7 @@ Additions:
 * cmake
 * ninja-build
 * gcc or clang
+
+## Example
+
+![Tinyray example image](./tinyray.png)

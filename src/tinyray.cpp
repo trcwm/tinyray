@@ -26,7 +26,7 @@ constexpr const int32_t RaysPerPixel = 128;
 constexpr const int32_t GL_width  = 2560;
 constexpr const int32_t GL_height = 1440;
 #else
-constexpr const int32_t RaysPerPixel = 8;
+constexpr const int32_t RaysPerPixel = 128;
 constexpr const int32_t GL_width  = 2560/4;
 constexpr const int32_t GL_height = 1440/4;
 #endif
