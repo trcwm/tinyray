@@ -8,3 +8,13 @@ Additions:
 * write result to PPM file.
 * changed std::vector to std::array.
 
+
+## Building
+* run ./bootstrap.sh
+* cd build
+* ninja
+
+## Dependencies
+* cmake
+* ninja-build
+* gcc or clang
