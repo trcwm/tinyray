@@ -21,4 +21,4 @@ Additions:
 
 ## Example
 
-![Tinyray example image](tinyray.png)
+![Tinyray example image](https://github.com/trcwm/tinyray/blob/master/tinyray.png)
